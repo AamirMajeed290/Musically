@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+   >
+
+
+
+    <item
+        android:id="@+id/rock"
+        android:checked="true"
+
+
+        android:icon="@drawable/ic_rock_2"
+        android:title="@string/title_rock" />
+
+    <item
+        android:id="@+id/classic"
+
+        android:icon="@drawable/ic_classical"
+        android:title="@string/title_classic" />
+
+
+
+    <item
+        android:id="@+id/pop"
+
+        android:icon="@drawable/ic_pop_4"
+        android:title="@string/title_pop" />
+
+</menu>
